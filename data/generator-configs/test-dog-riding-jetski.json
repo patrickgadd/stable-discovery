@@ -1,0 +1,13 @@
+{
+  "subjects": ["a dog"],
+  "actions": [
+    "riding a jetski",
+    "on a jetski"
+  ],
+  "suffixes_1": [],
+  "suffixes_2": [],
+  "suffixes_3": [],
+  "steps": [50],
+  "num_configs": 2,
+  "generator_seed": 1337
+}

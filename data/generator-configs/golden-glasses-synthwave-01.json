@@ -1,0 +1,13 @@
+{
+  "subjects": ["a Golden Retriever wearing sunglasses"],
+  "actions": [
+    "walking on a tropical beach", "floating in space", "floating in space with galaxies in the background",
+    "floating in space with the moon in the background", "black background", "grey background", "white background"
+  ],
+  "suffixes_1": ["vector graphics", "art deco"],
+  "suffixes_2": [],
+  "suffixes_3": ["teal and pink - synthwave style", "teal and pink"],
+  "steps": [40, 50, 60],
+  "num_configs": 10000,
+  "generator_seed": 1338
+}
