@@ -46,7 +46,7 @@ style="border-collapse: collapse; border: none; width: 67%; margin: auto">
 
 </table>
 
-The above images were created with this configuration (although I didn't generate 10k images, I stopped after 300 in this case):
+The above images were created with this configuration (although I didn't generate 10k images, I stopped after ~500 in this case):
 
 ```json
 {
